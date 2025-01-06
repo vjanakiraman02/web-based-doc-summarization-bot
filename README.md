@@ -19,3 +19,5 @@ pip install -r requirements.txt
 ```
 ### Running the Application using Streamlit
 streamlit run app.py
+
+### Running using Docker
