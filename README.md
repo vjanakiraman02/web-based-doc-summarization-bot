@@ -21,3 +21,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ### Running using Docker
+## Running Docker Container
+docker run -p 8501:8501 doc-summary-bot
+## Build Docker Image
+docker build -t doc-summary-bot .
+
