@@ -61,3 +61,11 @@ transformers==4.47.0
 typing-extensions==4.12.2
 urllib3==2.2.3
 uvicorn==0.34.0
+streamlit
+faiss-cpu
+transformers
+torch
+newspaper3k
+pinecone-client
+openai
+requests
