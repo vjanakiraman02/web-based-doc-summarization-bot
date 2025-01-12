@@ -1,7 +1,7 @@
 # Web-Based Document Summarization Bot
 
 ## Project Overview
-This project allows users to input URLs of web-based documents and receive concise summaries or answers to their questions. It uses NLP models for text processing, such as BART and GPT-3, and provides a user-friendly interface built with Streamlit.
+This project allows users to input URLs of web-based documents and receive concise summaries or answers to their questions. It uses NLP models for text processing, such as BART and GPT-3, and provides a user-friendly interface built with Node.js.
 
 ## Features
 - Document summarization
