@@ -1,0 +1,4 @@
+{
+  "/api-test/page": "app/api-test/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
